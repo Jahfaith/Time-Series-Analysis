@@ -1,2 +1,2 @@
 # Time-Series-Analysis
-For timeseries analysis using various techniques/timeseries models
+This repo explores timeseries data using various techniques/timeseries models.
